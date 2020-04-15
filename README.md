@@ -1,7 +1,7 @@
 ## COVID-19 en España
 
 Jupyter notebook que incluye
-- descarga de datos actuales de [covid19.isciii.es](https://covid19.isciii.es)
+- descarga de datos actualizados de [covid19.isciii.es](https://covid19.isciii.es)
 - procesamiento de fichero csv
 - Gráficas totales y por provincias
 - Ajuste de curva normal asimétrica (skew normal)
